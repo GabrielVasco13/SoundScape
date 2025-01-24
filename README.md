@@ -1,16 +1,13 @@
-# soundscape
+# SoundScape
 
-A new Flutter project.
+Um player de música que você pode tanto escutar suas músicas, como conhecer outras!
 
-## Getting Started
+## Disclaimer
 
-This project is a starting point for a Flutter application.
+### PT-BR
 
-A few resources to get you started if this is your first Flutter project:
+Este projeto é open source e sem fins lucrativos. No momento, ele funciona apenas em ambiente Linux. Talvez em um breve futuro estará disponível em outras plataformas.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### EN
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is open source and non-profit. Currently, it only works in a Linux environment. It may be available on other platforms in the near future.
